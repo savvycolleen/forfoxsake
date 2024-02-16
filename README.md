@@ -5,7 +5,7 @@ This is a simple web api with a foxy button as an interface to grab a random fox
 
 **Link to project:** [For Fox Sake](https://savvycolleen.github.io/forfoxsake/)
 <p align="center">
-<img src="images/readme-screenshot.png" width= 30% height= 40% justify="center">--->click!---><img src="images/readme-screenshot2.png" width= 30% height= 40%>
+<img src="images/readme-screenshot.png" width= "30%" height= "50%">--->click!---><img src="images/readme-screenshot2.png" width= "30%" height= "50%">
 </p>
 
 ## How It's Made:
@@ -19,6 +19,9 @@ This is a very simple site that could be added upon in many ways: adding design,
 ## Lessons Learned:
 
 This was made as practice for working with web APIs. I learned how to test APIs and determine what was needed for the fetch request to grab and place the photos in the DOM. This was a fun and quick way for me to check my knowledge and prove to myself that I could use that skill!
+<div align="center">
+<img src="images/readme-screenshot3.png" width= "30%" height= "50%">
+</div>
 
 
 
