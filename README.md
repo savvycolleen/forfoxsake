@@ -3,9 +3,10 @@ Beware: cute foxes ahead
 
 This is a simple web api with a foxy button as an interface to grab a random fox photo for your enjoyment. 
 
-**Link to project:** [text](https://savvycolleen.github.io/forfoxsake/)
-![website-before](images/readme-screenshot.png)--->click!--->![website-after](images/readme-screenshot2.png)
-<img src="images/readme-screenshot.png" width= 30%>--->click!---><img src="images/readme-screenshot2.png" width= 30%>
+**Link to project:** [For Fox Sake](https://savvycolleen.github.io/forfoxsake/)
+<p align="center">
+<img src="images/readme-screenshot.png" width= 30% height= 40% justify="center">--->click!---><img src="images/readme-screenshot2.png" width= 30% height= 40%>
+</p>
 
 ## How It's Made:
 
