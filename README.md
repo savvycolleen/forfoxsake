@@ -5,6 +5,7 @@ This is a simple web api with a foxy button as an interface to grab a random fox
 
 **Link to project:** [text](https://savvycolleen.github.io/forfoxsake/)
 ![website-before](images/readme-screenshot.png)--->click!--->![website-after](images/readme-screenshot2.png)
+<img src="images/readme-screenshot.png" width= 30%>--->click!---><img src="images/readme-screenshot2.png" width= 30%>
 
 ## How It's Made:
 
