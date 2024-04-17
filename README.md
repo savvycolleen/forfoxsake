@@ -11,9 +11,7 @@ This is a simple web api with a foxy button as an interface to grab a random fox
 
 **Tech used:** HTML, CSS, JavaScript
 The HTML is simple and straightforward. There is a heading with a button, which is used on the client-side to retrieve photos. The CSS is also simple with minimal styling for font and containers. The Javascript uses an event listener and fetch request to retrieve the photo and place it in an image on the DOM. 
-
-## Optimizations
-This is a very simple site that could be added upon in many ways: adding design, grabbing more/different info from the database, clearning up the responsiveness, etc. 
+ 
 
 ## Lessons Learned:
 
